@@ -1,0 +1,15 @@
+sudo npm install -g git-it
+mkdir ../git-it
+cd ../git-it/
+git-it 
+git --version
+git config --global user.name "alexun"
+git config --global user.email "alexunjm@gmail.com"
+git-it verify
+git-it
+mkdir hola-mundo
+cd hola-mundo/
+git init 
+git status
+git-it verify
+git-it
