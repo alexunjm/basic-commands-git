@@ -3,7 +3,11 @@ git diff
 git add comandos.txt 
 git status
 git commit -m "luego de hacer modificaciones sobre un archivo existente"
-git-it verify
-git-it
 git config --global user.username "alexunjm"
+git add comandos_part2.txt 
+git remote add origin https://github.com/alexunjm/hola-mundo.git
+git add .
+git commit -m "separación de comandos"
+git push origin master
 git-it verify
+git remote -v
