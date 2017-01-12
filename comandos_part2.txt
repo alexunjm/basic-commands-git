@@ -1,0 +1,9 @@
+git status
+git diff
+git add comandos.txt 
+git status
+git commit -m "luego de hacer modificaciones sobre un archivo existente"
+git-it verify
+git-it
+git config --global user.username "alexunjm"
+git-it verify
