@@ -13,3 +13,7 @@ git init
 git status
 git-it verify
 git-it
+nano comandos.txt
+git status
+git add comandos.txt
+git commit -m "primeros comandos git"
